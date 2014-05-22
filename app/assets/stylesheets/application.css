@@ -15,10 +15,13 @@
  */
 
 body { 
-	padding-top: 100px; 
+	font-size: 2em;
+	color: #eb635b;
+	padding-top: 100px;
 }
 footer { 
 	margin-top: 100px; 
+	color: gray;
 }
 table, td, th { 
 	vertical-align: middle !important; border: none !important; 
